@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/Tool-SQL-orange)
+![Database](https://img.shields.io/badge/Database-Relational-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # E-Commerce Business Analysis (SQL)
 
 ## 📌 Project Overview
