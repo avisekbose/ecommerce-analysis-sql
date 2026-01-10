@@ -1,12 +1,34 @@
-## E-commerce Business Analysis (SQL)
+# E-Commerce Business Analysis (SQL)
 
-### Objective
-Analyze transactional data to understand customer behavior and revenue trends.
+## 📌 Project Overview
+This project involves analyzing transactional data of an e-commerce company using **SQL** to understand customer behavior, sales trends, and revenue performance.
 
-### Tools
-- SQL (Joins, Aggregations, Window Functions)
+## 🎯 Business Objective
+- Analyze revenue and order trends  
+- Identify high-value customers and top-performing products  
+- Measure business growth and customer retention  
 
-### Key Insights
-- Identified top-performing products and customers
-- Calculated monthly revenue growth and AOV
-- Analyzed repeat customer behavior
+## 🛠 Tools & Technologies
+- SQL  
+  - Joins  
+  - Subqueries  
+  - Aggregate Functions  
+  - Window Functions  
+
+## 🔍 Key Analysis Performed
+- Calculated total revenue, order count, and average order value  
+- Analyzed monthly and customer-wise sales trends  
+- Identified repeat customers and their contribution to revenue  
+- Ranked products based on sales performance  
+
+## 📈 Key Insights
+- A small percentage of customers contributed significantly to revenue  
+- Certain products consistently outperformed others  
+- Repeat customers played a major role in business stability  
+
+## 📊 Outcome
+Enabled data-driven insights into customer retention, revenue growth, and product performance to support strategic decision-making.
+
+## 📁 Files
+- SQL query scripts  
+- Dataset (Excel)
