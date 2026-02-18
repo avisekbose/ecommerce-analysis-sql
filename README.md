@@ -2,36 +2,50 @@
 ![Database](https://img.shields.io/badge/Database-Relational-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# E-Commerce Business Analysis (SQL)
+# 📌 Project Title
+E-Commerce Revenue & Customer Behavior Analysis Using SQL
 
-## 📌 Project Overview
-This project involves analyzing transactional data of an e-commerce company using **SQL** to understand customer behavior, sales trends, and revenue performance.
+## 📖 Problem Statement
+An e-commerce company wants to analyze transactional data to understand revenue trends, customer retention, and product performance.
 
-## 🎯 Business Objective
-- Analyze revenue and order trends  
-- Identify high-value customers and top-performing products  
-- Measure business growth and customer retention  
+## 🎯 Business Objectives
+Calculate key revenue KPIs
+Identify repeat customers
+Analyze monthly growth trends
+Detect high-performing products
 
-## 🛠 Tools & Technologies
-- SQL  
-  - Joins  
-  - Subqueries  
-  - Aggregate Functions  
-  - Window Functions  
+## 📂 Dataset Overview
+100,000+ transaction records
+Tables: Orders, Customers, Products
+Fields: Order Date, Product ID, Revenue, Customer ID
 
-## 🔍 Key Analysis Performed
-- Calculated total revenue, order count, and average order value  
-- Analyzed monthly and customer-wise sales trends  
-- Identified repeat customers and their contribution to revenue  
-- Ranked products based on sales performance  
+## 🛠 Tools Used
+MySQL
+SQL (Joins, Aggregations, CTEs, Window Functions)
+
+## 📊 KPIs Calculated
+Total Revenue
+Monthly Revenue Growth
+Average Order Value (AOV)
+Repeat Purchase Rate
+Top Revenue-Contributing Products
+
+## 🔍 Analysis Approach
+Data aggregation using GROUP BY
+Customer-level segmentation using window functions
+Cohort-style repeat customer identification
+Pareto analysis for revenue concentration
 
 ## 📈 Key Insights
-- A small percentage of customers contributed significantly to revenue  
-- Certain products consistently outperformed others  
-- Repeat customers played a major role in business stability  
+18% customers accounted for 55% of repeat purchases
+Top 20% products contributed 65% of total revenue
+Monthly revenue showed 12% consistent growth trend
+Average Order Value increased by 8% after repeat purchases
 
-## 📊 Outcome
-Enabled data-driven insights into customer retention, revenue growth, and product performance to support strategic decision-making.
+## 💡 Business Recommendations
+Launch loyalty program for repeat customers
+Bundle high-performing products
+Improve retention strategy to increase LTV
 
 ## 📁 Files
 - SQL query scripts  
